@@ -4,7 +4,6 @@ windows|Mozilla/5.0 (Windows NT 10.3; x64; en-US) Gecko/20100101 Firefox/50.1
 android|Mozilla/5.0 (Linux; Android 6.0.1; HTC One M9 Build/MRA58K) AppleWebKit/536.31 (KHTML, like Gecko) Chrome/55.0.2207.110 Mobile Safari/601.3
 chrome|Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_8_0) AppleWebKit/603.45 (KHTML, like Gecko) Chrome/51.0.2854.307 Safari/535
 linux|Mozilla/5.0 (Linux; Linux x86_64) AppleWebKit/533.11 (KHTML, like Gecko) Chrome/51.0.3686.109 Safari/601
-mobile|Mozilla/5.0 (Android; Android 6.0.1; SM-D925V Build/MDB08L) AppleWebKit/603.5 (KHTML, like Gecko) Chrome/49.0.3394.315 Mobile Safari/536.4
 edge|Mozilla/5.0 (Windows NT 10.5; Win64; x64; en-US) AppleWebKit/602.9 (KHTML, like Gecko) Chrome/53.0.3698.318 Safari/600.9 Edge/9.85367
 mac|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_1_1; en-US) Gecko/20100101 Firefox/58.5
 linux|Mozilla/5.0 (Linux; Linux i674 x86_64) AppleWebKit/603.20 (KHTML, like Gecko) Chrome/55.0.1284.389 Safari/602
