@@ -6,7 +6,6 @@ chrome|Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_8_0) AppleWebKit/603.45 (KHT
 linux|Mozilla/5.0 (Linux; Linux x86_64) AppleWebKit/533.11 (KHTML, like Gecko) Chrome/51.0.3686.109 Safari/601
 edge|Mozilla/5.0 (Windows NT 10.5; Win64; x64; en-US) AppleWebKit/602.9 (KHTML, like Gecko) Chrome/53.0.3698.318 Safari/600.9 Edge/9.85367
 mac|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_1_1; en-US) Gecko/20100101 Firefox/58.5
-linux|Mozilla/5.0 (Linux; Linux i674 x86_64) AppleWebKit/603.20 (KHTML, like Gecko) Chrome/55.0.1284.389 Safari/602
 firefox|Mozilla/5.0 (Windows NT 10.2; WOW64) Gecko/20130401 Firefox/46.6
 mobile|Mozilla/5.0 (Android; Android 6.0; HTC One M9 Build/MRA58K) AppleWebKit/602.48 (KHTML, like Gecko) Chrome/55.0.2061.387 Mobile Safari/603.8
 mac|Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_10_2; en-US) Gecko/20100101 Firefox/61.1
