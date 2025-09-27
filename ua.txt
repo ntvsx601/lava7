@@ -21,7 +21,6 @@ linux|Mozilla/5.0 (U; Linux i666 ) AppleWebKit/600.47 (KHTML, like Gecko) Chrome
 linux|Mozilla/5.0 (Linux; Linux x86_64) AppleWebKit/602.2 (KHTML, like Gecko) Chrome/52.0.1801.317 Safari/601
 windows|Mozilla/5.0 (Windows NT 10.3;; en-US) AppleWebKit/603.39 (KHTML, like Gecko) Chrome/54.0.1840.255 Safari/601
 firefox|Mozilla/5.0 (Linux; Linux i570 x86_64) Gecko/20130401 Firefox/74.2
-chrome|Mozilla/5.0 (Windows NT 10.5; Win64; x64; en-US) AppleWebKit/535.48 (KHTML, like Gecko) Chrome/54.0.3084.245 Safari/534
 explorer|Mozilla/5.0 (compatible; MSIE 9.0; Windows; U; Windows NT 6.1;; en-US Trident/5.0)
 edge|Mozilla/5.0 (Windows NT 10.2;) AppleWebKit/601.43 (KHTML, like Gecko) Chrome/55.0.1910.234 Safari/533.7 Edge/14.43950
 mac|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_4_3; en-US) Gecko/20100101 Firefox/48.2
