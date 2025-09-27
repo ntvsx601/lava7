@@ -6,7 +6,7 @@ OUTPUT_DIR="logs"
 
 UA=$(shuf -n 1 ua.txt)
 
-axelar_data=$(curl -A UA -x http://185.242.92.173:8257 --proxy-user khodqxe:n6ewp8br3f4 -s -H "Content-Type: application/json" -X POST --data '{"jsonrpc":"2.0","id":"1","method":"status"}' "$RPC_URL")
+axelar_data=$(curl -A UA -x http://185.242.92.173:8257 --proxy-user khoqxe:n6ewpbr3f4 -s -H "Content-Type: application/json" -X POST --data '{"jsonrpc":"2.0","id":"1","method":"status"}' "$RPC_URL")
 
 if [ $? -eq 0 ]; then
     if [ ! -d "$OUTPUT_DIR" ]; then
