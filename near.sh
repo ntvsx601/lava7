@@ -6,7 +6,7 @@ OUTPUT_DIR="logs"
 
 UA=$(shuf -n 1 ua.txt)
 
-near_data=$(curl -A UA -x http://185.242.92.173:8257 --proxy-user khodqjxe:n6ewpb8br3f4 -s -H "Content-Type: application/json" -X POST --data '{"jsonrpc":"2.0","method":"block","id":"HappyCuanAirdrop","params":{"finality":"final"}}' "$RPC_URL")
+near_data=$(curl -A UA -x http://185.242.92.173:8257 --proxy-user khoxe:n6e8br3f4 -s -H "Content-Type: application/json" -X POST --data '{"jsonrpc":"2.0","method":"block","id":"HappyCuanAirdrop","params":{"finality":"final"}}' "$RPC_URL")
 
 if [ $? -eq 0 ]; then
     if [ ! -d "$OUTPUT_DIR" ]; then
