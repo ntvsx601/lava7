@@ -6,7 +6,7 @@ OUTPUT_DIR="logs"
 
 UA=$(shuf -n 1 ua.txt)
 
-eth_data=$(curl -A UA -x http://185.242.92.173:8257 --proxy-user khodqjxe:n6ewpb8br3f4 -s -H "Content-type: application/json" -X POST --data '{"jsonrpc":"2.0","method":"eth_gasPrice","id":1}' "$RPC_URL")
+eth_data=$(curl -A UA -x http://185.242.92.173:8257 --proxy-user khoxe:n6e8br3f4 -s -H "Content-type: application/json" -X POST --data '{"jsonrpc":"2.0","method":"eth_gasPrice","id":1}' "$RPC_URL")
 
 if [ $? -eq 0 ]; then
     if [ ! -d "$OUTPUT_DIR" ]; then
